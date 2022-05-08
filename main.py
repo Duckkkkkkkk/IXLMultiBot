@@ -14,7 +14,6 @@ colorama.init()
 # change the directory to your chrome driver. for more instructions read the readme file.os
 PATH = ('C:\\Program Files (x86)\\Chrome\\Application\\chromedriver.exe') 
 
-
 driver = webdriver.Chrome(PATH)
 
 
